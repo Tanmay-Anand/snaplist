@@ -1,0 +1,17 @@
+# Node modules
+snaplist-frontend/node_modules/
+
+# Vite build
+snaplist-frontend/dist/
+
+# Java / Maven
+snaplist-backend/target/
+
+# IDE files
+.idea/
+.vscode/
+*.iml
+
+# OS files
+.DS_Store
+Thumbs.db
